@@ -1,6 +1,9 @@
-### Hi there 👋
-![Twitter Follow](https://img.shields.io/twitter/follow/mashmoolamir?style=social)
+<h2> Hey there! I'm Mohammad ALi Ebrahimzadeh.</h2>
 
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+
+- 🤔 &nbsp; Exploring new technologies and developing software solutions.
+- 🎓 &nbsp; Studying Computer Science at University of Birjand.
 - 🔭  I'm currently working on a microservice project
 - 🌱 I’m currently learning the theory of everything!
 - 👯 I’m looking to collaborate on [topics that I love](https://scholar.google.com/citations?user=h-hiNwcAAAAJ&hl=en/).
