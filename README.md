@@ -8,6 +8,6 @@
 - 📫 How to reach me: [Twitter](https://twitter.com/mashmoolamir), [HomePage](http://amirmashmool.github.io/), [Researchgate](https://www.researchgate.net/profile/Amir_Mashmool)
 
 
-
+[![ReadMe Card](https://github-readme-stats.vercel.app/api?username=amirmashmool&theme=cobalt&show_icons=true)](https://github.com/amirmashmool)
 
 
